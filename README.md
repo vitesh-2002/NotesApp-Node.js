@@ -4,7 +4,7 @@ Utilizes FileSystem, yargs, and JSON package to allow user to add, remove, list,
 
 Command-line arguments examples:
 
-1. node app.js add --title="Week 1" --body="Bucs vs. Cowboys"
-2. node app.js remove --title="Week 1"
-3. node app.js list
-4. node app.js read --title="Week 1"
+ - node app.js add --title="Week 1" --body="Bucs vs. Cowboys"
+ - node app.js remove --title="Week 1"
+ - node app.js list
+ - node app.js read --title="Week 1"
